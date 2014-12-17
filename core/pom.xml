@@ -29,6 +29,7 @@
 
     <name>bitcoinj</name>
     <description>A Java Bitcoin library</description>
+    <version>0.12.2-uc</version>
 
     <packaging>jar</packaging>
 
